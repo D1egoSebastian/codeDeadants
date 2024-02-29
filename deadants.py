@@ -26,4 +26,4 @@ def antsfunction(ants):
 antsProblem = "...ant...ant..nat.ant.t..ant...ant..ant..ant.anant..t"
 answer = antsfunction(antsProblem)
 
-print("the number of dead ants is:" , answer)
+print("the number of dead ants is:" , answer) 
